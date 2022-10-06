@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern":
-          "url('https://images.pexels.com/photos/5849588/pexels-photo-5849588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')",
+          "url('https://imgs.search.brave.com/J7YthZxNVyQWv1EgHr0Md36QAbHlL5HSBZ5DdLRAz-c/rs:fit:787:450:1/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvYnVzaW5l/c3MtZ3Jvd3RoLXdp/dGgtYnVzaW5lc3Mt/dGVhbS0yNzA2ODAz/LTIyNjQzMDAucG5n')",
       },
     },
   },
